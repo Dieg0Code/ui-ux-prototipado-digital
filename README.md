@@ -186,3 +186,27 @@ Los mas comunes suelen ser 4:
 3. **"El UX es parte del proceso"**: Esto es algo muy común en organizaciones que recién están entendiendo en que consiste el UX y su importancia dentro del negocio, el UX en si mismo es el proceso que debe considerarse al momento de diseñar o mejorar un producto o servicio, no es algo que solo se hace al inicio, debe integrarse en cada etapa y con cada departamento dentro de la organización.
 
 4. **"El UX es muy caro"**: Este es un mito muy común cuando solo se concederá al UX como "el diseño de pantallas bonitas", y no ver que invertir en la adquisición de usuarios puede resultar mas costoso cuando los usuarios simplemente abandonan su intención de adquisición en el primer intento por no poder utilizar un producto o un servicio.
+
+### Prototipos y UX
+
+Debemos comprender que la herramienta conocida como prototipo, es una herramienta que integra toda la estrategia diseñada para la experiencia del usuario y como este entrará en contacto con nuestro producto digital a traves de UI.
+
+#### Integración UX/UI
+
+El UX y el UI se integran desde 3 puntos importantes que son:
+
+1. **El flujo de trabajo**: Responde exclusivamente al paso a paso, interacción por interacción, que deberá realizar el usuario para lograr sus objetivos. En pocas palabras es mapear cada click, gesto, estado en el que se encuentre o realize el usuario a traves de cada pantalla, hasta completar por ejemplo la compra de unos zapatos en una tienda web, escribir un mensaje por WhatsApp o realizar un post en Instagram.
+2. **El diseño visual**: Es la representación de los puntos de contacto en el dispositivo, hablamos de botones, pestañas campos de texto, formularios, etc. Elementos en pantalla con los que el usuario interactuará para poder utilizar nuestro producto digital. 
+3. **La experiencia**: Este pilar es el resultado de los 2 anteriores, ya que hace referencia a los resultados de la interacciones realizadas y como el usuario se siente realizando dichas interacciones. Este pilar es sumamente importante ya que de el depende el crecimiento o muerte temprana de nuestros productos digitales.
+
+#### Diseñar
+
+Dentro del ciclo de diseño y mejora continua podríamos decir que cuando hablamos de ``flujo de trabajo`` nos referimos a una etapa de ``diseño`` a nivel estratégico de la interacción que vivirá el usuario.
+
+#### Construir
+
+Una vez definido el flujo de trabajo, procedemos a ``construir`` el o los puntos de contacto a traves del ``diseño visual`` de interfaces de usuario.
+
+#### Medir
+
+Por último cerramos el ciclo midiendo y monitorizando la experiencia vivida en los puntos anteriores para volver a comenzar.
