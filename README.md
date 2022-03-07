@@ -210,3 +210,21 @@ Una vez definido el flujo de trabajo, procedemos a ``construir`` el o los puntos
 #### Medir
 
 Por último cerramos el ciclo midiendo y monitorizando la experiencia vivida en los puntos anteriores para volver a comenzar.
+
+### Fundamentos de diseño UI
+
+#### ¿Qué es UI?
+
+Son las siglas de User Interface, que en español significa Interfaz de Usuario. En conceptos generales una interfaz es un componente de interacción con un elemento el cual nos permite utilizarlo. Las UI son las que nos permite a nosotros como usuarios vivir una experiencia de uso con los productos o servicios digitales.
+
+Una UI es todo lo que el usuario puede ver, como pantallas, colores, textos, etc y todo con lo que el usuario puede interactuar, como botones, campos de texto, etc.
+
+#### Componentes del UI
+
+Entre los componentes del UI podemos destacar 3:
+
+1. **Arquitectura de Información**: Es la representación estructurada de los datos hacia el usuario.
+
+2. **Patrones de Interacciones**: Representan la forma en la que el usuario realizara una acción dentro de una pantalla, hablamos de navegación, gestos y demás.
+
+3. **Elementos Gráficos**: En esencia, son todos los aspectos como colores, estilos, componentes o imágenes que el usuario puede visualizar en la pantalla.
