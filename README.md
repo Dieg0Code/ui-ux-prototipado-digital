@@ -156,3 +156,33 @@ En esta historia podemos identificar los 3 tipos de productos mínimos que acaba
 Cuando la pastelería se propuso identificar como seria la presentación y distribución, hablábamos de un ``producto mínimo deseable`` o ``MLP``, ya que lo que se quería encontrar era la experiencia mas deseada que querían vivir los clientes al adquirir ese nuevo producto.
 
 Por último en el lanzamiento del pack de muffins, nos estuvimos refiriendo al ``producto mínimo comercializable`` o ``MSP``, el cual es la primera versión comercial del producto diseñado, eventualmente este producto seguirá evolucionando para descubrir mas cosas como, que cantidades exactas de toppings enviar o cuales son los toppings mas deseados.
+
+## Fundamentos del UX/UI
+
+El UX (experiencia de usuario) es una disciplina estratégica que diseña lo que el usuario vivirá al entrar en contacto con un producto o servicio, que para en nuestro caso será en un ámbito netamente digital.
+
+
+El UI (interfaz de usuario) es el medio o el elemento por el cual un usuario interactúa con un producto digital, estamos hablando de botones, pantallas, tipografías, colores, gestos, interacciones en general.
+
+Comúnmente suele confundirse el objetivo del UX y el UI debido a su alta relación con el diseño de experiencias digitales, sin embargo, esto no debe ser tomado así, ya que UI es parte de las herramientas que se utilizan para construir la experiencia del usuario. Debemos ver al UX desde un ámbito mucho mas estratégico y al UI desde un ámbito mucho mas orientado al diseño visual.
+
+**Jakob Nielsen**, co-fundador de "The Nielsen Norman Group", y una eminencia en temas de usabilidad, explica que la usabilidad es lo que manda en la web, es el motor para que un usuario decida continuar o no utilizando determinado producto digital, nos lo explica con el siguiente ejemplo:
+
+"Si un cliente que ingresa a una tienda online y se le hace un mundo poder encontrar el producto que quiere, ese cliente terminará abandonando la web y por consiguiente no realizará ninguna compra, tanto en el presente como en el futuro".
+
+Nielsen nos habla sobre el concepto de ``objetivo de usuario``, este objetivo de usuario, en pocas palabras es lo que el usuario quiere realizar en determinada situación al interactuar con un producto digital. Para el ejemplo el objetivo de usuario es comprar un producto en una tienda digital, pero la experiencia de búsqueda es tán accidentada que el usuario no puede lograr su objetivo y termina desistiendo de la compra.
+
+
+### Mitos del UX
+
+Dentro del mundo de UX y el diseño de experiencias en general, existen mitos muy arraigados en la mente de muchos sponsors en las empresas.
+
+Los mas comunes suelen ser 4:
+
+1. **"El UX es opcional"**: Todos al entrar en contacto con un producto o servicio, vivimos diferentes experiencias que pueden ser tanto buenas, sorprendentes o simplemente terribles. Sea como sea, siempre vamos a vivir una experiencia, por lo cual el diseño de las mismas no puede ser opcional en ningún caso.
+
+2. **"El UX son solo pantallas bonitas"**: Mas que un aspecto visual impresionante, con animaciones , transiciones y botones super innovadores, debe primar el logro de los objetivos del usuario, una interfaz de usuario que no permita que el usuario logre sus objetivos, simplemente no está funcionando.
+
+3. **"El UX es parte del proceso"**: Esto es algo muy común en organizaciones que recién están entendiendo en que consiste el UX y su importancia dentro del negocio, el UX en si mismo es el proceso que debe considerarse al momento de diseñar o mejorar un producto o servicio, no es algo que solo se hace al inicio, debe integrarse en cada etapa y con cada departamento dentro de la organización.
+
+4. **"El UX es muy caro"**: Este es un mito muy común cuando solo se concederá al UX como "el diseño de pantallas bonitas", y no ver que invertir en la adquisición de usuarios puede resultar mas costoso cuando los usuarios simplemente abandonan su intención de adquisición en el primer intento por no poder utilizar un producto o un servicio.
