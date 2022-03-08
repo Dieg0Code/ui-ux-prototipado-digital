@@ -272,3 +272,20 @@ Otra consideración a tomar en cuenta es la ``legibilidad`` de la información e
 #### Visualización ¿Es agradable visualmente lo que veo?
 
 Esta al ser una consideración subjetiva lo que podemos considerar son temas como tendencias visuales de diseño, paletas de colores en estilo mate, diseño de imágenes flat o planas, el minimalism, etc.
+
+### Gestos y Acciones
+
+#### ¿Que son los gestos?
+
+Los gestos son movimientos que realizamos en la pantalla de nuestro dispositivos, lo cuales nos permiten ejecutar ciertas acciones como abrir un aplicación, dar un like, cerrar una ventana , dar un zoom, etc. Se puede decir que hay 2 tipos de gestos:
+
+1. **Deslizables**: Es cuando arrastramos los dedos en la pantalla. Ejm, Swipe up, scrolling, etc.
+2. **Toque**: Es cuando realizamos un toque en la pantalla. Ejm: Tap/clic, doble tap, etc.
+
+Los gestos de por si, no es tan restringido su uso, pero si hay ciertas buenas prácticas que se debe seguir sobre todo para no afectar la experiencia de usuario.
+
+- **Gestos Intuitivos**: Los gestos deben ser fáciles de reconocer por el usuario. Si un usuario ve un botón lo que espera es realizar un toque para realizar una acción porque ese es un comportamiento natural.
+
+- **Navegabilidad**: No deben dificultar la navegación, deben hacerla más sencilla. No debe verse afectada por la inclusión de determinados gestos, por el contrario, debe volverse mucho mas sencilla.
+
+- **Coherencia**: Ser consistente en el uso de los gestos. Si en una pantalla utilizamos un tap para abrir una ventana en otra pantalla deberíamos seguir utilizando el mismo gesto para poder realizar la misma acción.
