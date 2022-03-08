@@ -289,3 +289,9 @@ Los gestos de por si, no es tan restringido su uso, pero si hay ciertas buenas p
 - **Navegabilidad**: No deben dificultar la navegación, deben hacerla más sencilla. No debe verse afectada por la inclusión de determinados gestos, por el contrario, debe volverse mucho mas sencilla.
 
 - **Coherencia**: Ser consistente en el uso de los gestos. Si en una pantalla utilizamos un tap para abrir una ventana en otra pantalla deberíamos seguir utilizando el mismo gesto para poder realizar la misma acción.
+
+### Mapa de Navegación
+
+Un mapa de navegación es una herramienta que nos permite visualizar de manera general la secuencia que existe entre las pantallas de una aplicación, nos permite evaluar cuántos pasos puede realizar un usuario hasta alcanzar un objetivo en especifico dentro de la aplicación.
+
+Normalmente se suele confundir un mapa de navegación con otro mapa que se le conoce como mapa de sitio o site map, sin embargo, la diferencia principal es que el mapa de navegación logra un nivel de detalle basado en los componentes de la pantalla, botones, etiquetas, enlaces, etc.
