@@ -228,3 +228,47 @@ Entre los componentes del UI podemos destacar 3:
 2. **Patrones de Interacciones**: Representan la forma en la que el usuario realizara una acción dentro de una pantalla, hablamos de navegación, gestos y demás.
 
 3. **Elementos Gráficos**: En esencia, son todos los aspectos como colores, estilos, componentes o imágenes que el usuario puede visualizar en la pantalla.
+
+### Patrones de Diseño UI
+
+#### Interactividad ¿Puedo realizar la acción sin problemas?
+
+En esta area debemos cuidar determinados aspectos como:
+
+- **Hit area**: Área en la cual debemos interactuar para generar una acción en la UI.
+
+- **Comportamiento**: Reacciones naturales de un usuario en la interacción.
+
+- **Componente**: Identificar el elemento especifico para la interacción deseada.
+
+- **Sentido**: Es posible adaptar el UI a diferentes dispositivos más no la experiencia.
+
+#### Hit area
+
+El ``Hit area`` es el area de contacto en la pantalla para realizar un gesto o un toque, por ejemplo, si tuviéramos una pantalla en donde los iconos de opciones están muy pegados, va a ser muy difícil para los usuarios acertar en la opción correcta a la primera y por ende le terminará generando malestar.
+
+#### Comportamiento
+
+El tema del ``comportamiento`` es algo que debemos tener muy en cuenta al momento de diseñar depende mucho del contexto en el que se utilizara la aplicación y como normalmente utiliza el dispositivo el usuario, por ejemplo, si utiliza una mano para tomar el teléfono o ambas, si prefiere utilizar el botón de navegación hacia atrás en una aplicación o si lo hace desde los botones físicos del dispositivo.
+
+#### Componente
+
+Los `componentes` son los elementos como cajas de texto, botones, los campos de checkbox, listas desplegables y demás elementos, los cuales tienen un objetivo y un uso particular para cada tipo de información que queremos mostrar en la pantalla, no es lo mismo que un formulario de registro me pida ingresar mi país de residencia a traves de una lista en la cual tengo que hacer un scroll mientras voy leyendo a escribir las 3 primeras letras y que automáticamente se me muestre una sugerencia o coincidencia.
+
+#### Sentido
+
+Esto tiene que ver mucho con la adaptación que tiene nuestro diseño a diferentes dispositivos, sin embargo, debemos considerar algo muy importante, solo la interfaz de usuario es posible adaptarla, la experiencia no. Esto podemos representarlo con un ejemplo de WhatsApp, este tiene una versión web y una versión móvil, ambas poseen los mismos elementos gráficos en el diseño de su interfaz de usuario, sin embargo, la experiencia en ambas es distinta, ya que mientras en una debo escribir utilizando mis pulgares, en la otra utilizo mi teclado dándome una mayor velocidad al comunicarme.
+
+#### Legibilidad
+
+Otra consideración a tomar en cuenta es la ``legibilidad`` de la información en pantalla, debemos tener en consideración por lo menos estos 3 puntos:
+
+- **Tamaño**: El tamaño de la fuente debe ser legible en cualquier dispositivo. Identificando los diferentes tamaños de pantalla que existen y para las cuales estamos diseñando.
+
+- **Espaciado**: El espaciado permite generar agrupaciones implícitas de contenido. EL espaciado es uno de los elementos abstractos de agrupamiento los cuales visualmente agrupan el contenido y los hacen ver de forma automática como parte de un mismo elemento.
+
+- **Contraste**: Los colores que utilicemos deben aportar a la rápida identificación de elementos importantes.
+
+#### Visualización ¿Es agradable visualmente lo que veo?
+
+Esta al ser una consideración subjetiva lo que podemos considerar son temas como tendencias visuales de diseño, paletas de colores en estilo mate, diseño de imágenes flat o planas, el minimalism, etc.
