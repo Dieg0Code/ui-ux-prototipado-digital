@@ -295,3 +295,11 @@ Los gestos de por si, no es tan restringido su uso, pero si hay ciertas buenas p
 Un mapa de navegación es una herramienta que nos permite visualizar de manera general la secuencia que existe entre las pantallas de una aplicación, nos permite evaluar cuántos pasos puede realizar un usuario hasta alcanzar un objetivo en especifico dentro de la aplicación.
 
 Normalmente se suele confundir un mapa de navegación con otro mapa que se le conoce como mapa de sitio o site map, sin embargo, la diferencia principal es que el mapa de navegación logra un nivel de detalle basado en los componentes de la pantalla, botones, etiquetas, enlaces, etc.
+
+### Tips Finales
+
+- **Analizar**: Ver las aplicaciones con otros ojos y reconocer la experiencia implementada.
+
+- **Diseño**: Revisar estilos, patrones de diseño, procesos creativos de los diseñadores gráficos, etc.
+
+- **Leer**: Investigar mucho sobre UX y sus tendencias actuales.
