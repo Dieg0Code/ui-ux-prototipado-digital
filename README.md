@@ -303,3 +303,25 @@ Normalmente se suele confundir un mapa de navegación con otro mapa que se le co
 - **Diseño**: Revisar estilos, patrones de diseño, procesos creativos de los diseñadores gráficos, etc.
 
 - **Leer**: Investigar mucho sobre UX y sus tendencias actuales.
+
+## Introducción al Sketching
+
+"Si no puedo dibujarlo, es que no lo entiendo" - Albert Einstein. Einstein en esta frase nos está comentando acerca de la comprensión que podemos tener sobre determinados conceptos y nuestra capacidad de transformarlos en una imágenes para poder comunicarnos de una manera mas sencilla con otras personas.
+
+### ¿Qué es el Sketching?
+
+La técnica del Sketching es una técnica ágil que permite prototipar y aterrizar ideas de forma muy rápida y clara para compartir con el equipo de trabajo. El Sketching está fundamentado en los conceptos que apoya el pensamiento visual, en el que haciendo contraste a lo que decía Einstein sobre que "si no puedo dibujarlo, es que no lo entiendo"., en este caso es, "si puedes explicarlo, es que puedes dibujarlo".
+
+### Consideraciones
+
+1. **Objetivos no pantallas**: Debes diseñar pensando en qué quiere lograr el usuario no en la cantidad de pantallas.
+
+Recuerda que lo que buscamos en este tipo de prototipado de bajo nivel es aterrizar las primeras ideas de lo que el usuario debería hacer con nuestra aplicación, por lo que si nos centramos en dibujar pantallas y no caminos para que el usuario final logre algo, estaremos sesgando la propuesta de solución y al final es el mismo usuario el que nos dirá si le parecen muchas pantallas o no cuando hagamos nuestras pruebas de validación.
+
+2. **Comunica**: Recuerda que todo tu equipo debe comprender tus bocetos o simplemente no servirá.
+
+Tus dibujos deben comunicar claramente la idea que tienes en mente, recuerda que aunque bocetes para ti mismo, al final esos bocetos deben comprendidos por los demás miembros de tu equipo para que puedan tener todos una visión uniforme sobre lo que se quiere del producto final.
+
+3. **Tiempo límite**: Lo que se busca es aterrizar ideas no buscar detalles en exceso.
+
+Hay que limitar los tiempos del Sketching, lo que se busca es aterrizar ideas y no dar detalles excesivos sobre como se verán las pantallas, ya que estas al final en las primeras validaciones pueden cambiar mucho y por lo tanto será tiempo y esfuerzo desperdiciado.
