@@ -343,3 +343,20 @@ Nos dedicamos a dibujar las pantallas que serán parte de la aplicación, este e
 3. **Compartir con el equipo**: Compartimos la propuesta de solución y refinamos con las propuestas de los demás.
 
 Culminamos compartiendo las propuestas diseñadas por cada uno de los miembros del equipo, para a traves de la discusión fusionar o eliminar cosas con el fin de encontrar la mejor propuesta de solución posible.
+
+### Sketching con Marvel
+
+[Marvel](https://marvelapp.com/) es una herramienta de prototipado rápido. Nos permitirá realizar la animación de la navegación de nuestro sketch de una forma rápida a través de su aplicativo móvil: Marvel app.
+
+También cuenta con una versión web, en donde podremos prototipar 
+otro tipo de pantallas.
+
+Con Marvel app, podemos sacar fotos a nuestros diseños dibujados y luego con las fotos de estos agregar todo la animación de navegación que queremos que tenga nuestra aplicación.
+
+### Consideraciones
+
+Un punto a tener en cuenta cuando realicemos los bocetos es que los elementos por defecto de las pantallas siempre deben ser dibujados, por ejemplo, en una pantalla mobile, siempre debe ir la barra de notificaciones, simplemente para tener una visión de que está ahí ocupando un espacio dentro del boceto.
+
+- En una pantalla de login siempre hay un botón de login y uno de registro, pero el botón de registro debe ser solo la palabra, mientras que el de login si se debe ver como un botón común, esto es por la jerarquía de los componentes de una interfaz de usuario, los botones tienden a ser mucho mas resaltantes al momento de ser visualizados por parte del usuario que los textos, por lo cual, nuestra operación por defecto dentro de una pantalla de login siempre va a ser el tema del ingreso de sesión.
+
+- Otra cosa a tener en consideración es el botón de retroceso en las aplicaciones móviles, el cual siempre está en la esquina superior izquierda de la pantalla, al lado del título de la pantalla.
