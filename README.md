@@ -360,3 +360,32 @@ Un punto a tener en cuenta cuando realicemos los bocetos es que los elementos po
 - En una pantalla de login siempre hay un botón de login y uno de registro, pero el botón de registro debe ser solo la palabra, mientras que el de login si se debe ver como un botón común, esto es por la jerarquía de los componentes de una interfaz de usuario, los botones tienden a ser mucho mas resaltantes al momento de ser visualizados por parte del usuario que los textos, por lo cual, nuestra operación por defecto dentro de una pantalla de login siempre va a ser el tema del ingreso de sesión.
 
 - Otra cosa a tener en consideración es el botón de retroceso en las aplicaciones móviles, el cual siempre está en la esquina superior izquierda de la pantalla, al lado del título de la pantalla.
+
+### Mejores prácticas y recomendaciones
+
+El principio base de evaluación:
+
+- **Comportamiento**: Análisis contextual sobre cómo usará un usuario nuestra aplicación.
+- **Opiniones**: Generalmente lo que se dice no es lo que se hace.
+
+Debemos tener muy claro este principio fundamental a la hora de avaluar nuestros sketch y prototipos en general.
+
+Debemos estar muy atentos al comportamiento del usuario mas que las opiniones de este, esto no quiere decir que dichas opiniones no son importantes, lo son, pero al punto de significar un impacto relevante en nuestro estudio. Recordemos que generalmente lo que se dice no siempre es lo que se hace, ademas de esto, debemos considerar que el comportamiento en un laboratorio es muy diferente al comportamiento en un contexto determinado.
+
+Por ejemplo, supongamos que estás construyendo una aplicación para que los bodegueros puedan realizar sus pedidos directamente a sus proveedores, en el laboratorio los bodegueros invitados realizan todo el procedimiento de inicio a fin sin interrupciones, lo cual da como resultado pruebas exitosas, sin embargo, en un contexto real dentro de su tienda el bodeguero es constantemente interrumpido por clientes que llegan al lugar adquirir algún producto, cortando el proceso y perdiendo los datos del pedido, por lo cual el bodeguero deberá empezar desde cero su pedido cada vez que es interrumpido.
+
+Este escenario nos demuestra que dentro de un contexto controlado como un laboratorio, podríamos caer fácilmente en un sesgo, mientras que en un contexto real podremos descubrir situaciones como las interrupciones de los clientes que nos ayudaran a pulir mas nuestro prototipo y añadir a nuestra solución una opción antes no contemplada, la opción de la continuación del pedido desde el último punto en el que el bodeguero fue interrumpido.
+
+### Tips Finales
+
+- **Habla menos**: Deja que el usuario pregunte.
+
+Debemos acostumbrarnos a observar cuales son los problemas que se le presentan al usuario mientras está interactuando con nuestro prototipo y no a guiarlo en el paso a paso de como funciona, esto lo único que provocaría es que corrompamos la prueba y no se pueda obtener información importante para nuestra validación.
+
+- **Scamper**: Herramientas de mutación.
+
+Es una técnica de generación de ideas o creatividad que nos puede ayudar mucho al momento de socializar nuestra propuesta de solución posterior a la dinámica de Sketching con el equipo de trabajo, SCAMPER son las siglas de sustituir, combinar, adaptar, modificar, poner en otros contextos, eliminar o minimizar y reordenar o invertir. Para hacerse una mejor idea de la dinámica, imagina que estas con tu grupo de trabajo y entre todo seleccionan dos pantallas al azar y realizan la siguientes preguntas, ¿como podríamos combinar estas pantallas?, ¿que pasaría si re-ordenamos su estructura?.
+
+- **Olvida tu ego**: Construye para los demás, no para tener razón.
+
+Este es el tip mas importante de todos, no solo en el Sketching, sino en todo lo relacionado con el diseño y la innovación. Recuerda que lo que construyas o diseñes no es un producto pensado para ti, es un producto pensado para que el usuario final sea el mayor beneficiado, así que acostumbrate a dejar el ego de lado.
