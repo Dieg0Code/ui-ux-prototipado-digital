@@ -325,3 +325,21 @@ Tus dibujos deben comunicar claramente la idea que tienes en mente, recuerda que
 3. **Tiempo límite**: Lo que se busca es aterrizar ideas no buscar detalles en exceso.
 
 Hay que limitar los tiempos del Sketching, lo que se busca es aterrizar ideas y no dar detalles excesivos sobre como se verán las pantallas, ya que estas al final en las primeras validaciones pueden cambiar mucho y por lo tanto será tiempo y esfuerzo desperdiciado.
+
+### Técnica de Sketching
+
+Los 3 pasos fundamentales para el Sketching son:
+
+1. **Definir el objetivo**: ¿Que es lo que el usuario quiere lograr?
+
+Debemos definir el objetivo que el usuario desea cumplir para que todo el equipo tenga la misma visión y pueda realizar los diseños de sus propuestas de solución.
+
+*Para el logro de un objetivo se puede realizar mas de un paso, esto desde una perfectiva macro se le conoce como `navegabilidad`.*
+
+2. **Dibujar pantallas**: Todos deben dibujar una solución para el mismo objetivo.
+
+Nos dedicamos a dibujar las pantallas que serán parte de la aplicación, este es el momento en el que todos los miembros del equipo dibujan las diferentes pantallas que serán sus propuestas de solución para el cumplimiento del objetivo del usuario que hemos definido en el paso anterior.
+
+3. **Compartir con el equipo**: Compartimos la propuesta de solución y refinamos con las propuestas de los demás.
+
+Culminamos compartiendo las propuestas diseñadas por cada uno de los miembros del equipo, para a traves de la discusión fusionar o eliminar cosas con el fin de encontrar la mejor propuesta de solución posible.
