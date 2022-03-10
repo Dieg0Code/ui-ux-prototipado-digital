@@ -410,3 +410,29 @@ Las especificaciones nos sirven no solo para tener una visión mas detallada y c
 Existen multiples soluciones disponibles, algunas de pago y otras en formato freemium, entre los mas utilizados tenemos a ``marvel`` y ``proto.io``, ambas nos permiten construir un wireframes de forma sencilla y rápida.
 
 Otras opciones son `balsamiq Wireframes`, `fluid`, `moqups` o `MockFlow`.
+
+### Userflow Mapping
+
+### ¿Qué es Userflow Mapping?
+
+**Flujo de trabajo del usuario**. Nos permite identificar cada una de las interacciones que ocurren entre el usuario y la aplicación.
+
+El diagrama proviene de ramas de la ingeniería industrial y software
+
+Es una herramienta que nos permite visualiza la ruta de interacción que vivirá el usuario cuando realiza una acción y como nuestra aplicación reaccionará a este estimulo.
+
+### Componentes Comunes
+
+- **Inicio/Fin**: Indica el momento dónde se inicia la acción.
+
+*Ej: Usuario con aplicación iniciada*.
+
+- **Input/Output/Data**: Indica la interacción que hace el usuario.
+
+*Ej: Iniciar sesión*.
+
+- **Condicional**: Validaciones para continuar con la acción.
+
+*Ej: ¿Cuenta de usuario es válida?*.
+
+- **Proceso/Tarea**: Respuesta por parte de la aplicación.
