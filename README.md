@@ -389,3 +389,24 @@ Es una técnica de generación de ideas o creatividad que nos puede ayudar mucho
 - **Olvida tu ego**: Construye para los demás, no para tener razón.
 
 Este es el tip mas importante de todos, no solo en el Sketching, sino en todo lo relacionado con el diseño y la innovación. Recuerda que lo que construyas o diseñes no es un producto pensado para ti, es un producto pensado para que el usuario final sea el mayor beneficiado, así que acostumbrate a dejar el ego de lado.
+
+## Introducción al Wireframing
+
+### ¿Qué es Wireframing?
+
+Es una **técnica de prototipado de media fidelidad**. Emplea un nivel de detalle más preciso que el sketching ya que se realiza a través de software de prototipado, el cual nos permite agregar elementos más técnicos como píxeles y coordenadas para posicionar los componentes.
+
+### Diferencias con el Sketching
+
+Además del nivel de fidelidad, sus principales diferencias son 2.
+
+1. **Herramienta**: Es necesario utilizar software para construirlo.
+2. **Especificaciones**: Sirve como herramienta para iniciar trabajos con el equipo técnico de desarrollo.
+
+Las especificaciones nos sirven no solo para tener una visión mas detallada y cercana de la visión final del producto que queremos construir, sino también para comunicar al equipo técnico de desarrollo especificaciones de diseño que le permita a ellos iniciar su trabajo de construcción en código.
+
+### Herramientas
+
+Existen multiples soluciones disponibles, algunas de pago y otras en formato freemium, entre los mas utilizados tenemos a ``marvel`` y ``proto.io``, ambas nos permiten construir un wireframes de forma sencilla y rápida.
+
+Otras opciones son `balsamiq Wireframes`, `fluid`, `moqups` o `MockFlow`.
