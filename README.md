@@ -436,3 +436,44 @@ Es una herramienta que nos permite visualiza la ruta de interacción que vivirá
 *Ej: ¿Cuenta de usuario es válida?*.
 
 - **Proceso/Tarea**: Respuesta por parte de la aplicación.
+
+![Example](https://www.ownway.eu/data/USR_007_DEFAULT/Flowchart_symbol_EN.jpg)
+
+### Conceptos
+
+#### ¿Qué es una Pantalla y un Contenedor?
+
+1. **Pantalla**: Un conjunto de componentes al cual se puede navegar a través de otras pantallas.
+
+2. **Contenedor**: Un segmento de pantalla que agrupa otros componentes para ser reutilizado. No se puede navegar.
+
+#### Estados
+
+Las pantallas y los contenedores también poseen un estado. Los estados son respuestas de la aplicación a una interacción en especifico realizada por el usuario.
+
+Por ejemplo, tenemos una pantalla de login con 2 estados, el estado inicial y un estado de error, para que la aplicación pase de un estado a otro es necesario que el usuario interactúe e ingrese un dato incorrecto.
+
+**Solo las pantallas y contenedores poseen estados, los componentes como botones, campos de texto y demás no poseen estados.**
+
+### Tips
+
+- **Evolucionar el concepto**: La prueba y error permiten pulir cosas de las que antes no éramos conscientes.
+
+- **Enfoque de aprender**: Los wireframes nos permiten interactuar con los usuarios y aprender de ellos.
+
+- **Prácticas útiles**: Las buenas prácticas son buenas, pero cada proyecto es muy particular.
+
+- **Ser ordenados y construir formatos de nombre**: Ayuda mucho a poder saber a qué pantalla nos dirigimos cuando estamos construyendo.
+
+Ejemplo:
+
+`[Prefijo] + [Nombre] + [Estado]`
+
+Para las pantallas:
+
+- Src_Login_Inicial
+
+Para los componentes:
+
+- TxtTituloPantalla_Src_ListarTarjetas
+- BtnRegistrarse_Src_Registro
