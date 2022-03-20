@@ -477,3 +477,69 @@ Para los componentes:
 
 - TxtTituloPantalla_Src_ListarTarjetas
 - BtnRegistrarse_Src_Registro
+
+## Introducción a los Mockups
+
+### ¿Qué es un Mockup?
+
+Es la versión mas fiel de tu producto digital, sirve para mostrar el aspecto visual final.
+
+Es la versión *casi* final del producto, no es la versión final, porque aún pueden ocurrir cambios al momento de presentarlos a los stakeholders.
+
+### ¿Para qué sirven los Mockups?
+
+A diferencia de las 2 técnicas anteriores, los mockups nos sirven para vender la idea a nuestros interesados.
+
+- **Stakeholders**: Expone la visión real del producto final.
+
+- **Estrategia**: Permite definir una estrategia clara para el lanzamiento del producto final.
+
+- **Construcción**: El empaquetado visual listo para que se integre con la parte con la parte estructural del desarrollo.
+
+No pasa nada si no hicimos la parte de Wireframing, podemos partir directamente desde este punto de desarrollo.
+
+#### Diseño de productos no diseño gráfico
+
+Lo importante es conocer las técnicas y herramientas mínimas para guiar el proyecto.
+
+### Figma
+
+#### ¿Qué es Figma?
+
+Es una plataforma de diseño de UI de alta fidelidad la cual nos permite construir sistemas de diseño basado en componentes de algunos prototipos visuales.
+
+Características:
+
+- **Colaborativo**: Permite que varias personas trabajen en el mismo diseño.
+
+- **Multiplataforma**: Capacidad para editar desde el navegador y PC.
+
+- **Comunidad**: Comunidad en crecimiento y muy activa con plugins.
+
+Las herramientas que compiten en la misma categoría de Figma son Adobe XD y Sketch.
+
+### Términos de Diseño
+
+- **Design System**: Es una estructura basada en patrones y componentes para construir diseños sin importar la plataforma que utilicemos, esta puede ser web, mobile, para un smart watch, una TV, etc.
+
+- **UI Kit**: Es un grupo de componentes pre-diseñados y con un estilo definido que por lo general es especifico para una plataforma. Un UI Kit ya implementa todo lo necesario para construir nuestra pantalla, desde secciones completas como modales hasta etiquetas de texto o Tooltips.
+
+- **Material Design**: Es un sistema de diseño construido por Google, el cual está centrado en el concepto del **diseño flat** o plano y utiliza las alturas para definir las jerarquías de importancia de los componentes en la pantalla. Como dato, Google se basó en las sombras proyectadas de una hoja de papel al elevarlas de la mesa para definir su jerarquía.
+
+- **Tema**: Un tema y un template por lo general suelen confundirse en términos prácticos, sin embargo, un tema es un punto mas abstracto ya que es la idea creativa que define el diseño para la plantilla. Podríamos decir las versiones claras u oscuras de nuestro menu de los teléfonos como ejemplos de tema, los temas en si están mas centrados en el aspecto de colores mas que en la estructura propiamente dicha.
+
+- **Template o Plantilla**: Son la estructura y componentes pre-diseñados que nos ayudan a agilizar el proceso de desarrollo de nuestros diseños, los templates ya envuelven tanto los sistemas de diseño y los UI Kit, lo cual nosotros no definiríamos la estructura de la pantalla como tal si no mas bien su contenido. Por ejemplo, que cambios de un formulario voy a utilizar o que texto pondré en la pantalla.
+
+- **Plugin**: Los plugins son complementos adicionales que se instalan en las herramientas para expandir la funcionalidades que tienen, por lo general son construidos por los mismos dueños de la herramienta, sin embargo, a veces son construido por terceros o por la misma comunidad.
+
+### Componentes Enlazados
+
+En Figma un componente es un elemento reutilizable y por ende podemos reutilizarlo en diferentes pantallas, sin embargo, si el componente sufre alguna modificación en alguna de las pantallas, las mismas modificaciones se verán reflejadas en las demás, es por ello que cuando vamos a utilizar un componente que solamente queremos realizar una modificación en una pantalla en especifico debemos quitarle el enlace con su componente original para volverlo un elemento independiente.
+
+### Diferenciar Agrupamientos
+
+En Figma existen 2 formas de agrupar elementos:
+
+1. **Grupos**: Es una agrupación simple de elementos, cuando se exporta se considera como uno solo.
+
+2. **Frames**: Representa un contenedor de componentes, cuando se exporta los elementos se mantienen de forma independiente.
