@@ -543,3 +543,21 @@ En Figma existen 2 formas de agrupar elementos:
 1. **Grupos**: Es una agrupación simple de elementos, cuando se exporta se considera como uno solo.
 
 2. **Frames**: Representa un contenedor de componentes, cuando se exporta los elementos se mantienen de forma independiente.
+
+### Smart Animate
+
+#### Animación avanzada de elementos
+
+Es una función de Figma que permite realizar animaciones basadas en estados (inicial - final).
+
+Para animar un elemento, este debe existir en todas las pantallas de la animación y poseer el mismo nombre.
+
+Smart animate nos permite realizar animaciones de 4 tipos:
+
+1. **Posición**: Identifica los cambios en las coordenadas (x,y) de un componente.
+
+2. **Opacidad**: Identifica los cambios en el % de opacidad en un componente, para realizar una animación de mostrar u ocultar de forma difuminada.
+
+3. **Rotación**: Identifica los cambios en el ángulo de un componente.
+
+4. **Escalado**: Identifica el cambio en el tamaño de un componente, para realizar una animación de crecimiento o encogimiento.
