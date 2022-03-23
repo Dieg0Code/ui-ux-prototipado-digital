@@ -561,3 +561,15 @@ Smart animate nos permite realizar animaciones de 4 tipos:
 3. **Rotación**: Identifica los cambios en el ángulo de un componente.
 
 4. **Escalado**: Identifica el cambio en el tamaño de un componente, para realizar una animación de crecimiento o encogimiento.
+
+### Componentes y estados
+
+Un campo dentro de un formulario puede tener cuatro estados básicos:
+
+- **Estado por defecto**: El campo contiene datos y puede ser editado de forma normal.
+
+- **Estado vacío**: El campo no tiene ningún dato, pero muestra el placeholder.
+
+- **Solo lectura**: El campo contiene datos, pero no pueden ser editados. El uso mas común de este tipo de estado está relacionado con datos fijos que el usuario no puede modificar por seguridad, por ejemplo tu nombre de usuario.
+
+- **Estado deshabilitado**: Este estado no contiene datos y tampoco puede editarse, es utilizado generalmente cuando el campo no es necesario completarlo, por ejemplo, los campos de código postal, en algunos países es necesario ingresarlo, pero en el caso de Perú, por ejemplo, podemos mostrarlo deshabilitado, ya que no es un dato necesario.
