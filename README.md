@@ -573,3 +573,59 @@ Un campo dentro de un formulario puede tener cuatro estados básicos:
 - **Solo lectura**: El campo contiene datos, pero no pueden ser editados. El uso mas común de este tipo de estado está relacionado con datos fijos que el usuario no puede modificar por seguridad, por ejemplo tu nombre de usuario.
 
 - **Estado deshabilitado**: Este estado no contiene datos y tampoco puede editarse, es utilizado generalmente cuando el campo no es necesario completarlo, por ejemplo, los campos de código postal, en algunos países es necesario ingresarlo, pero en el caso de Perú, por ejemplo, podemos mostrarlo deshabilitado, ya que no es un dato necesario.
+
+### Modales y Overlay
+
+Los overlay son una funcionalidad que permite mostrar elementos superpuestos encima de la pantalla, por lo general, son utilizados para mostrar menús contextuales, modales, vistas de detalle, etc.
+
+## Validación de prototipo digitales
+
+### ¿Qué es User Testing?
+
+El ``User Testing`` es uno de los momentos más imprescindibles, dentro de UX y el diseño en general. Lo aprendido a lo largo del desarrollo de nuestros productos y lo que diseñamos a partir de los hallazgo es importante, pero nada sirve si no validamos nuestras hipótesis y propuestas con usuarios reales en un contexto lo mas cercano a la realidad, es por eso que la idea correcta es la que se construye con los usuarios, no para el usuario, esto quiere decir que el usuario debe ser parte del proceso y no solo participar al final cuando el producto ya está terminado.
+
+#### Contextos de uso
+
+
+
+- **Validar una idea**: La validación con usuarios o User Test puede ser utilizada en diversos contextos, por ejemplo, validar una idea como tal, que es básicamente identificar si una idea cumple o no un cierto grado aceptable de deseabilidad en el publico al cual nos estamos dirigiendo.
+
+- **Rediseñar propuestas**: Otro contexto es rediseñar propuestas o identificar puntos críticos dentro de nuestros productos o servicios para generar mejoras.
+
+- **Identificar comportamientos**: Identificar comportamientos que a traves de una conversación o un focus group pueden ser no tan evidentes, pero siempre recuerda que debes contrastar lo que dice el usuario con lo que realmente hace.
+
+### Técnicas
+
+- **A/B Test**: Son las mas sencillas de ejecutar, consiste básicamente en evaluar 2 propuestas similares y comparar sus resultados de efectividad, por ejemplo, imagina que quieren saber que color le gusta mas a la gente para el nuevo logo de facebook, pueden presentar a públicos iguales una propuesta en color azul y una en negro, al finalizar evaluaran cual tiene mejores resultados para tomar una decisión.
+
+- **Encuestas**: Las más comunes y fáciles de aplicar, permiten recolectar data cuantitativa, hay muchas herramientas que podemos utilizar como Google forms, surveymonkey, etc. Debemos entender que aquí solo podemos obtener información cuantitativa, es decir, información estadística que luego deberemos contrastar con una información cualitativa basada en comportamiento.
+
+- **Screen recording**: Esta técnica es mucho mas tecnológica y requiere si o si de un software especializado, consiste en grabar directamente lo que realiza el usuario en sus pantallas para poder identificar comportamientos o dificultades que puedan tener cuando están realizando alguna tarea dentro de la aplicación.
+
+- **Mapa de calor**: Los mapas de calor muestran de una forma mucho mas visible los focos en los que se fijan o interactúan más los usuarios dentro de una aplicación, puede ser un botón, un banner, un texto, siempre va a ser un elemento de la pantalla.
+
+### Herramientas para User Testing
+
+**Marvel** cuenta con una herramienta de screen recording la cual nos servirá para ver como interactúan los usuarios y escuchar sus comentarios.
+
+## Recomendaciones finales
+
+Los proyectos de UX están considerados bajo un manto mas abstracto de disciplinas mas tradicionales como desarrollo de software, gestión de productos o incluso el mismo diseño de interfaces, por lo que en nuestras iniciativas siempre debemos tener en cuenta 3 puntos importantes en la presentación de nuestros resultados.
+
+- **Aterriza tu idea**: Explora, busca problemas reales, valida si de verdad son problemas reales o solo son escenarios contextuales, pero sobre todo documenta. Documentar te servirá mas adelante para que puedas demostrar todo el trabajo que realizaste hasta llegar a la idea que estas proponiendo.
+
+- **Simular en contextos reales**: Cuando valides con usuarios o verifiques una hipótesis siempre ten en cuenta que el contexto de laboratorio y el mundo real son muy diferentes, un contexto de laboratorio es un contexto controlado y casi utópico con relación al mundo real, el mundo real tiene particularidades que debemos tener muy en cuenta cuando diseñemos nuestras ideas.
+
+- **Demuestra con hechos**: La documentación de todo lo realizado en un inicio mas los resultados de las pruebas con usuarios son los mejores aliados que puedes tener al momento de exponer tus ideas hacia tu jefe, equipo e inversores, es la única forma en la que podrás convertir en algo mas tangible lo intangible del diseño de experiencias.
+
+### Piensa en el POR QUÉ
+
+*La experiencia de usuario no se basa en pantallas "bonitas", se trata del POR QUÉ de las acciones de un usuario*
+
+Algo que debemos tener siempre en cuenta y que por lo general siempre se confunde es que la experiencia del usuario no consiste solo en construir pantallas bonitas, el diseño de ``UI`` es parte importante del proceso porque es el punto de contacto entre el usuario y la aplicación, pero el diseño de experiencias `UX` se centra mas en el por qué de las acciones y reacciones de un usuario con nuestra propuesta.
+
+### El usuario es parte de tu equipo
+
+*Debes diseñar con él y no para él, lo mejor es que sea partícipe del trabajo y no solo un aprobador*
+
+El usuario no debe ser un tester, ni un validador, tampoco un aprobador, debe ser un integrante mas del equipo. Esto implica asignarle tareas como a un miembro mas del equipo, como por ejemplo, en equipos ágiles el usuario o el representante del usuario es participe y un apollo directo del los *product owner*, sobre todo en la definición de las historias de usuario y los criterios de aceptación, el usuario dentro de los equipos cumple un rol muy importante ya que permite brindar una visión contextual lo mas cercana a la realidad posible, no brinda ese conocimiento del contexto real, contexto que como equipo de trabajo probablemente no conozcamos en un primer momento.
